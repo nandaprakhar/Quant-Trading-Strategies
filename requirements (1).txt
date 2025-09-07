@@ -1,0 +1,22 @@
+# Core Libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Data Acquisition
+yfinance
+
+# Technical Analysis
+pandas_ta
+
+# Machine Learning
+scikit-learn
+tensorflow
+keras
+
+# Deep Reinforcement Learning
+stable-baselines3
+
+# Utilities
+tqdm
